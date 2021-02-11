@@ -30,9 +30,9 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 
 Nombres integrantes:
 
-1. Estudiante 1: Nicole Murillo Fonseca 202025521 
+1. Nicole Murillo Fonseca 202025521 
 
-2. Estudiante 2: Mariana Diaz Arenas 202020993
+2. Mariana Diaz Arenas 202020993
 
 Correos uniandes:
 
